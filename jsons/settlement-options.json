@@ -1,0 +1,716 @@
+{
+    "size": [
+        {
+            "name": "Hamlet",
+            "size": "tiny"
+        },
+        {
+            "name": "Village",
+            "size": "small"
+        },
+        {
+            "name": "Town",
+            "size": "medium"
+        },
+        {
+            "name": "Small City",
+            "size": "large"
+        },
+        {
+            "name": "Large City",
+            "size": "huge"
+        },
+        {
+            "name": "Metropolis",
+            "size": "massive"
+        }
+    ],
+    "government": [
+        {
+            "name": "Civilian Autocracy",
+            "details": ""
+        },
+        {
+            "name": "Magocracy",
+            "details": ""
+        },
+        {
+            "name": "Noble Oligarchy",
+            "details": ""
+        },
+        {
+            "name": "Merchant Oligarchy",
+            "details": ""
+        },
+        {
+            "name": "Tyranny",
+            "details": ""
+        },
+        {
+            "name": "Republic",
+            "details": ""
+        },
+        {
+            "name": "Democracy",
+            "details": ""
+        },
+        {
+            "name": "Shadow Council",
+            "details": ""
+        },
+        {
+            "name": "Crime Syndicate",
+            "details": ""
+        },
+        {
+            "name": "Theocracy",
+            "details": ""
+        },
+        {
+            "name": "Feudal Monarchy",
+            "details": ""
+        },
+        {
+            "name": "Parliamentary Monarch",
+            "details": ""
+        },
+        {
+            "name": "Collective",
+            "details": ""
+        },
+        {
+            "name": "Provincial Imperial Rule",
+            "details": ""
+        },
+        {
+            "name": "Public Council/Town Meeting",
+            "details": ""
+        },
+        {
+            "name": "Military Dictatorship",
+            "details": ""
+        },
+        {
+            "name": "Two Cooperating Governments",
+            "details": ""
+        },
+        {
+            "name": "Two Antagonistic Governments",
+            "details": ""
+        },
+        {
+            "name": "No Government",
+            "details": ""
+        },
+        {
+            "name": "Hidden Government",
+            "details": ""
+        }
+    ],
+    "alignment": [
+        {
+            "name": "Organized",
+            "details": ""
+        },
+        {
+            "name": "Free-Spirited",
+            "details": ""
+        },
+        {
+            "name": "Tyrannical",
+            "details": ""
+        },
+        {
+            "name": "Brutal/Survivalist",
+            "details": ""
+        },
+        {
+            "name": "Progressive",
+            "details": ""
+        },
+        {
+            "name": "Progressive",
+            "details": ""
+        },
+        {
+            "name": "Utopian",
+            "details": ""
+        },
+        {
+            "name": "Isolationist",
+            "details": ""
+        },
+        {
+            "name": "Selfish/Cutthroat",
+            "details": ""
+        },
+        {
+            "name": "Anarchist",
+            "details": ""
+        },
+        {
+            "name": "Totalitarian",
+            "details": ""
+        },
+        {
+            "name": "Compassionate",
+            "details": ""
+        },
+        {
+            "name": "Just",
+            "details": ""
+        }
+    ],
+    "leadership": [
+        {
+            "name": "Corrupt",
+            "details": ""
+        },
+        {
+            "name": "Rigid",
+            "details": ""
+        },
+        {
+            "name": "Severe",
+            "details": ""
+        },
+        {
+            "name": "High Taxation",
+            "details": ""
+        },
+        {
+            "name": "Low Taxation",
+            "details": ""
+        },
+        {
+            "name": "Religious Influences",
+            "details": ""
+        },
+        {
+            "name": "Foreign Influences",
+            "details": ""
+        },
+        {
+            "name": "Ineffective",
+            "details": ""
+        },
+        {
+            "name": "Inexperienced",
+            "details": ""
+        },
+        {
+            "name": "Divided",
+            "details": ""
+        },
+        {
+            "name": "Scandalous",
+            "details": ""
+        },
+        {
+            "name": "Disintegrating",
+            "details": ""
+        },
+        {
+            "name": "Familial",
+            "details": ""
+        },
+        {
+            "name": "Bureaucratic",
+            "details": ""
+        },
+        {
+            "name": "Expansionist",
+            "details": ""
+        },
+        {
+            "name": "Militaristic",
+            "details": ""
+        },
+        {
+            "name": "Imperialist",
+            "details": ""
+        },
+        {
+            "name": "Free Market",
+            "details": ""
+        },
+        {
+            "name": "Relaxed",
+            "details": ""
+        },
+        {
+            "name": "Magical Influences",
+            "details": ""
+        }
+    ],
+    "guards": [
+        {
+            "name": "Military",
+            "details": ""
+        },
+        {
+            "name": "Foreign",
+            "details": ""
+        },
+        {
+            "name": "Easygoing",
+            "details": ""
+        },
+        {
+            "name": "Progressive",
+            "details": ""
+        },
+        {
+            "name": "Draconian",
+            "details": ""
+        },
+        {
+            "name": "Lazy",
+            "details": ""
+        },
+        {
+            "name": "Sparse",
+            "details": ""
+        },
+        {
+            "name": "Xenophobic",
+            "details": ""
+        },
+        {
+            "name": "Incompetent",
+            "details": ""
+        },
+        {
+            "name": "Zealous",
+            "details": ""
+        },
+        {
+            "name": "Devoted",
+            "details": ""
+        },
+        {
+            "name": "Hardened",
+            "details": ""
+        },
+        {
+            "name": "Well-Equipped",
+            "details": ""
+        },
+        {
+            "name": "Underfunded",
+            "details": ""
+        },
+        {
+            "name": "Magically Enhanced",
+            "details": ""
+        },
+        {
+            "name": "Monstrous",
+            "details": ""
+        },
+        {
+            "name": "Cowardly",
+            "details": ""
+        },
+        {
+            "name": "Broken",
+            "details": ""
+        },
+        {
+            "name": "Infiltrated",
+            "details": ""
+        },
+        {
+            "name": "Adventurers",
+            "details": ""
+        }
+    ],
+    "defenses": [
+        {
+            "name": "Fortified Templates/Monasteries",
+            "details": ""
+        },
+        {
+            "name": "Free-Standing Archer Towers",
+            "details": ""
+        },
+        {
+            "name": "Defensive Trebuchets",
+            "details": ""
+        },
+        {
+            "name": "Secondary Walls",
+            "details": ""
+        },
+        {
+            "name": "Deadfalls and Hidden Ditches",
+            "details": ""
+        },
+        {
+            "name": "Secret Entrance/Exit",
+            "details": ""
+        },
+        {
+            "name": "Thick Crenellated Walls",
+            "details": ""
+        },
+        {
+            "name": "Defensive Ballistae",
+            "details": ""
+        },
+        {
+            "name": "Crude/Early Cannons",
+            "details": ""
+        },
+        {
+            "name": "Defensive Catapults",
+            "details": ""
+        },
+        {
+            "name": "Permanent Chevaux de Frise",
+            "details": ""
+        },
+        {
+            "name": "Motte-and-Bailey-Castle",
+            "details": ""
+        },
+        {
+            "name": "Fortified Harbors",
+            "details": ""
+        },
+        {
+            "name": "Moat and Drawbridge",
+            "details": ""
+        },
+        {
+            "name": "Fortified City Gatehouse",
+            "details": ""
+        },
+        {
+            "name": "Defensive Cliffs",
+            "details": ""
+        },
+        {
+            "name": "Sally Port",
+            "details": ""
+        },
+        {
+            "name": "Supernatural Guardian",
+            "details": ""
+        }
+    ],
+    "buildings": [
+        {
+            "name": "Impoverished Residence",
+            "details": "",
+            "low-value": 1,
+            "high-value": 6            
+        },
+        {
+            "name": "Impoverished Services",
+            "details": "",
+            "low-value": 7,
+            "high-value": 11
+        },
+        {
+            "name": "Impoverished Shop",
+            "details": "",
+            "low-value": 12,
+            "high-value": 15
+        },
+        {
+            "name": "Warehouse",
+            "details": "",
+            "low-value": 16,
+            "high-value": 17
+        },
+        {
+            "name": "Minor Shrine",
+            "details": "",
+            "low-value": 18,
+            "high-value": 19
+        },
+        {
+            "name": "Guardpost",
+            "details": "",
+            "low-value": 20,
+            "high-value": 21
+        },
+        {
+            "name": "Prison",
+            "details": "",
+            "low-value": 22,
+            "high-value": 22
+        },
+        {
+            "name": "Poor Residence",
+            "details": "",
+            "low-value": 23,
+            "high-value": 28
+        },
+        {
+            "name": "Low-Quality Restaurant",
+            "details": "",
+            "low-value": 29,
+            "high-value": 31
+        },
+        {
+            "name": "Low-Quality Services",
+            "details": "",
+            "low-value": 32,
+            "high-value": 34
+        },
+        {
+            "name": "Low-Quality Inn",
+            "details": "",
+            "low-value": 35,
+            "high-value": 37
+        },
+        {
+            "name": "Low-Quality Shop",
+            "details": "",
+            "low-value": 38,
+            "high-value": 41
+        },
+        {
+            "name": "Open-Air Market",
+            "details": "",
+            "low-value": 42,
+            "high-value": 42
+        },
+        {
+            "name": "Low-Quality Theater",
+            "details": "",
+            "low-value": 43,
+            "high-value": 43
+        },
+        {
+            "name": "Memorial",
+            "details": "",
+            "low-value": 44,
+            "high-value": 44
+        },
+        {
+            "name": "Graveyard",
+            "details": "",
+            "low-value": 45,
+            "high-value": 45
+        },
+        {
+            "name": "Average Residence",
+            "details": "",
+            "low-value": 46,
+            "high-value": 53
+        },
+        {
+            "name": "Average Restaurant",
+            "details": "",
+            "low-value": 54,
+            "high-value": 58
+        },
+        {
+            "name": "Average Services",
+            "details": "",
+            "low-value": 59,
+            "high-value": 64
+        },
+        {
+            "name": "Average Inn",
+            "details": "",
+            "low-value": 65,
+            "high-value": 73
+        },
+        {
+            "name": "Average Shop",
+            "details": "",
+            "low-value": 74,
+            "high-value": 85
+        },
+        {
+            "name": "Modest Church",
+            "details": "",
+            "low-value": 86,
+            "high-value": 87
+        },
+        {
+            "name": "Guard Barracks",
+            "details": "",
+            "low-value": 88,
+            "high-value": 88
+        },
+        {
+            "name": "Park",
+            "details": "",
+            "low-value": 89,
+            "high-value": 89
+        },
+        {
+            "name": "Upscale Residence",
+            "details": "",
+            "low-value": 90,
+            "high-value": 94
+        },
+        {
+            "name": "High-Quality Restaurant",
+            "details": "",
+            "low-value": 95,
+            "high-value": 97
+        },
+        {
+            "name": "High-Quality Services",
+            "details": "",
+            "low-value": 98,
+            "high-value": 100
+        },
+        {
+            "name": "High Quality Inn",
+            "details": "",
+            "low-value": 101,
+            "high-value": 103
+        },
+        {
+            "name": "High-Quality Shop",
+            "details": "",
+            "low-value": 104,
+            "high-value": 106
+        },
+        {
+            "name": "Large Temple",
+            "details": "",
+            "low-value": 107,
+            "high-value": 107
+        },
+        {
+            "name": "Monument",
+            "details": "",
+            "low-value": 108,
+            "high-value": 108
+        },
+        {
+            "name": "Library",
+            "details": "",
+            "low-value": 109,
+            "high-value": 109
+        },
+        {
+            "name": "Guildhall",
+            "details": "",
+            "low-value": 110,
+            "high-value": 110
+        },
+        {
+            "name": "High-Quality Theater",
+            "details": "",
+            "low-value": 111,
+            "high-value": 111
+        },
+        {
+            "name": "Embassy",
+            "details": "",
+            "low-value": 112,
+            "high-value": 112
+        },
+        {
+            "name": "Diplomatic Residence",
+            "details": "",
+            "low-value": 113,
+            "high-value": 113
+        },
+        {
+            "name": "Bank",
+            "details": "",
+            "low-value": 114,
+            "high-value": 114
+        },
+        {
+            "name": "Servant House",
+            "details": "",
+            "low-value": 115,
+            "high-value": 115
+        },
+        {
+            "name": "Noble Estate",
+            "details": "",
+            "low-value": 116,
+            "high-value": 120
+        },
+        {
+            "name": "University",
+            "details": "",
+            "low-value": 121,
+            "high-value": 121
+        },
+        {
+            "name": "Mortuary",
+            "details": "",
+            "low-value": 122,
+            "high-value": 122
+        },
+        {
+            "name": "Dungeon",
+            "details": "",
+            "low-value": 123,
+            "high-value": 123
+        },
+        {
+            "name": "Mausoleum",
+            "details": "",
+            "low-value": 124,
+            "high-value": 124
+        },
+        {
+            "name": "Bureaucrat Offices",
+            "details": "",
+            "low-value": 125,
+            "high-value": 125
+        },
+        {
+            "name": "Sacred Green",
+            "details": "",
+            "low-value": 126,
+            "high-value": 126
+        },
+        {
+            "name": "Exotic Residence",
+            "details": "",
+            "low-value": 127,
+            "high-value": 130
+        },
+        {
+            "name": "Exotic Restaurant",
+            "details": "",
+            "low-value": 131,
+            "high-value": 132
+        },
+        {
+            "name": "Exotic Inn",
+            "details": "",
+            "low-value": 133,
+            "high-value": 134
+        },
+        {
+            "name": "Exotic Services",
+            "details": "",
+            "low-value": 135,
+            "high-value": 136
+        },
+        {
+            "name": "Exotic Shop",
+            "details": "",
+            "low-value": 137,
+            "high-value": 138
+        },
+        {
+            "name": "Grand Cathedral",
+            "details": "",
+            "low-value": 139,
+            "high-value": 139
+        },
+        {
+            "name": "Governmental Hall",
+            "details": "",
+            "low-value": 140,
+            "high-value": 140
+        }
+    ]
+}
