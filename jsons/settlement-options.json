@@ -403,314 +403,3373 @@
         {
             "name": "Impoverished Residence",
             "details": "",
-            "low-value": 1,
-            "high-value": 6            
+            "lowValue": 1,
+            "highValue": 6
         },
         {
             "name": "Impoverished Services",
             "details": "",
-            "low-value": 7,
-            "high-value": 11
+            "lowValue": 7,
+            "highValue": 11
         },
         {
             "name": "Impoverished Shop",
             "details": "",
-            "low-value": 12,
-            "high-value": 15
+            "lowValue": 12,
+            "highValue": 15
         },
         {
             "name": "Warehouse",
             "details": "",
-            "low-value": 16,
-            "high-value": 17
+            "lowValue": 16,
+            "highValue": 17
         },
         {
             "name": "Minor Shrine",
             "details": "",
-            "low-value": 18,
-            "high-value": 19
+            "lowValue": 18,
+            "highValue": 19
         },
         {
             "name": "Guardpost",
             "details": "",
-            "low-value": 20,
-            "high-value": 21
+            "lowValue": 20,
+            "highValue": 21
         },
         {
             "name": "Prison",
             "details": "",
-            "low-value": 22,
-            "high-value": 22
+            "lowValue": 22,
+            "highValue": 22
         },
         {
             "name": "Poor Residence",
             "details": "",
-            "low-value": 23,
-            "high-value": 28
+            "lowValue": 23,
+            "highValue": 28
         },
         {
             "name": "Low-Quality Restaurant",
             "details": "",
-            "low-value": 29,
-            "high-value": 31
+            "lowValue": 29,
+            "highValue": 31
         },
         {
             "name": "Low-Quality Services",
             "details": "",
-            "low-value": 32,
-            "high-value": 34
+            "lowValue": 32,
+            "highValue": 34
         },
         {
             "name": "Low-Quality Inn",
             "details": "",
-            "low-value": 35,
-            "high-value": 37
+            "lowValue": 35,
+            "highValue": 37
         },
         {
             "name": "Low-Quality Shop",
             "details": "",
-            "low-value": 38,
-            "high-value": 41
+            "lowValue": 38,
+            "highValue": 41
         },
         {
             "name": "Open-Air Market",
             "details": "",
-            "low-value": 42,
-            "high-value": 42
+            "lowValue": 42,
+            "highValue": 42
         },
         {
             "name": "Low-Quality Theater",
             "details": "",
-            "low-value": 43,
-            "high-value": 43
+            "lowValue": 43,
+            "highValue": 43
         },
         {
             "name": "Memorial",
             "details": "",
-            "low-value": 44,
-            "high-value": 44
+            "lowValue": 44,
+            "highValue": 44
         },
         {
             "name": "Graveyard",
             "details": "",
-            "low-value": 45,
-            "high-value": 45
+            "lowValue": 45,
+            "highValue": 45
         },
         {
             "name": "Average Residence",
             "details": "",
-            "low-value": 46,
-            "high-value": 53
+            "lowValue": 46,
+            "highValue": 53
         },
         {
             "name": "Average Restaurant",
             "details": "",
-            "low-value": 54,
-            "high-value": 58
+            "lowValue": 54,
+            "highValue": 58
         },
         {
             "name": "Average Services",
             "details": "",
-            "low-value": 59,
-            "high-value": 64
+            "lowValue": 59,
+            "highValue": 64
         },
         {
             "name": "Average Inn",
             "details": "",
-            "low-value": 65,
-            "high-value": 73
+            "lowValue": 65,
+            "highValue": 73
         },
         {
             "name": "Average Shop",
             "details": "",
-            "low-value": 74,
-            "high-value": 85
+            "lowValue": 74,
+            "highValue": 85
         },
         {
             "name": "Modest Church",
             "details": "",
-            "low-value": 86,
-            "high-value": 87
+            "lowValue": 86,
+            "highValue": 87
         },
         {
             "name": "Guard Barracks",
             "details": "",
-            "low-value": 88,
-            "high-value": 88
+            "lowValue": 88,
+            "highValue": 88
         },
         {
             "name": "Park",
             "details": "",
-            "low-value": 89,
-            "high-value": 89
+            "lowValue": 89,
+            "highValue": 89
         },
         {
             "name": "Upscale Residence",
             "details": "",
-            "low-value": 90,
-            "high-value": 94
+            "lowValue": 90,
+            "highValue": 94
         },
         {
             "name": "High-Quality Restaurant",
             "details": "",
-            "low-value": 95,
-            "high-value": 97
+            "lowValue": 95,
+            "highValue": 97
         },
         {
             "name": "High-Quality Services",
             "details": "",
-            "low-value": 98,
-            "high-value": 100
+            "lowValue": 98,
+            "highValue": 100
         },
         {
             "name": "High Quality Inn",
             "details": "",
-            "low-value": 101,
-            "high-value": 103
+            "lowValue": 101,
+            "highValue": 103
         },
         {
             "name": "High-Quality Shop",
             "details": "",
-            "low-value": 104,
-            "high-value": 106
+            "lowValue": 104,
+            "highValue": 106
         },
         {
             "name": "Large Temple",
             "details": "",
-            "low-value": 107,
-            "high-value": 107
+            "lowValue": 107,
+            "highValue": 107
         },
         {
             "name": "Monument",
             "details": "",
-            "low-value": 108,
-            "high-value": 108
+            "lowValue": 108,
+            "highValue": 108
         },
         {
             "name": "Library",
             "details": "",
-            "low-value": 109,
-            "high-value": 109
+            "lowValue": 109,
+            "highValue": 109
         },
         {
             "name": "Guildhall",
             "details": "",
-            "low-value": 110,
-            "high-value": 110
+            "lowValue": 110,
+            "highValue": 110
         },
         {
             "name": "High-Quality Theater",
             "details": "",
-            "low-value": 111,
-            "high-value": 111
+            "lowValue": 111,
+            "highValue": 111
         },
         {
             "name": "Embassy",
             "details": "",
-            "low-value": 112,
-            "high-value": 112
+            "lowValue": 112,
+            "highValue": 112
         },
         {
             "name": "Diplomatic Residence",
             "details": "",
-            "low-value": 113,
-            "high-value": 113
+            "lowValue": 113,
+            "highValue": 113
         },
         {
             "name": "Bank",
             "details": "",
-            "low-value": 114,
-            "high-value": 114
+            "lowValue": 114,
+            "highValue": 114
         },
         {
             "name": "Servant House",
             "details": "",
-            "low-value": 115,
-            "high-value": 115
+            "lowValue": 115,
+            "highValue": 115
         },
         {
             "name": "Noble Estate",
             "details": "",
-            "low-value": 116,
-            "high-value": 120
+            "lowValue": 116,
+            "highValue": 120
         },
         {
             "name": "University",
             "details": "",
-            "low-value": 121,
-            "high-value": 121
+            "lowValue": 121,
+            "highValue": 121
         },
         {
             "name": "Mortuary",
             "details": "",
-            "low-value": 122,
-            "high-value": 122
+            "lowValue": 122,
+            "highValue": 122
         },
         {
             "name": "Dungeon",
             "details": "",
-            "low-value": 123,
-            "high-value": 123
+            "lowValue": 123,
+            "highValue": 123
         },
         {
             "name": "Mausoleum",
             "details": "",
-            "low-value": 124,
-            "high-value": 124
+            "lowValue": 124,
+            "highValue": 124
         },
         {
             "name": "Bureaucrat Offices",
             "details": "",
-            "low-value": 125,
-            "high-value": 125
+            "lowValue": 125,
+            "highValue": 125
         },
         {
             "name": "Sacred Green",
             "details": "",
-            "low-value": 126,
-            "high-value": 126
+            "lowValue": 126,
+            "highValue": 126
         },
         {
             "name": "Exotic Residence",
             "details": "",
-            "low-value": 127,
-            "high-value": 130
+            "lowValue": 127,
+            "highValue": 130
         },
         {
             "name": "Exotic Restaurant",
             "details": "",
-            "low-value": 131,
-            "high-value": 132
+            "lowValue": 131,
+            "highValue": 132
         },
         {
             "name": "Exotic Inn",
             "details": "",
-            "low-value": 133,
-            "high-value": 134
+            "lowValue": 133,
+            "highValue": 134
         },
         {
             "name": "Exotic Services",
             "details": "",
-            "low-value": 135,
-            "high-value": 136
+            "lowValue": 135,
+            "highValue": 136
         },
         {
             "name": "Exotic Shop",
             "details": "",
-            "low-value": 137,
-            "high-value": 138
+            "lowValue": 137,
+            "highValue": 138
         },
         {
             "name": "Grand Cathedral",
             "details": "",
-            "low-value": 139,
-            "high-value": 139
+            "lowValue": 139,
+            "highValue": 139
         },
         {
             "name": "Governmental Hall",
             "details": "",
-            "low-value": 140,
-            "high-value": 140
+            "lowValue": 140,
+            "highValue": 140
+        }
+    ],
+    "exoticShops": [
+        {
+            "name": "Alchemist",
+            "details": ""
+        },
+        {
+            "name": "Caligrapher",
+            "details": ""
+        },
+        {
+            "name": "Costumer",
+            "details": ""
+        },
+        {
+            "name": "Sea Coral Dealer",
+            "details": ""
+        },
+        {
+            "name": "Imported Goods Dealer",
+            "details": ""
+        },
+        {
+            "name": "Magic Armor Dealer",
+            "details": ""
+        },
+        {
+            "name": "Magic Item Dealer",
+            "details": ""
+        },
+        {
+            "name": "Magic Weapon Dealer",
+            "details": ""
+        },
+        {
+            "name": "Pet Merchant",
+            "details": ""
+        },
+        {
+            "name": "Potion Dealer",
+            "details": ""
+        },
+        {
+            "name": "Rare Wood Merchant",
+            "details": ""
+        },
+        {
+            "name": "Scroll Merchant",
+            "details": ""
+        },
+        {
+            "name": "Soap Maker",
+            "details": ""
+        },
+        {
+            "name": "Spice Merchant",
+            "details": ""
+        },
+        {
+            "name": "Trapmaker",
+            "details": ""
+        },
+        {
+            "name": "Wand Merchant",
+            "details": ""
+        },
+        {
+            "name": "Exotic Clothier",
+            "details": ""
+        },
+        {
+            "name": "Mapseller",
+            "details": ""
+        },
+        {
+            "name": "Antique Dealer",
+            "details": ""
+        }
+    ],
+    "highQualityShops": [
+        {
+            "name": "Perfumer",
+            "details": ""
+        },
+        {
+            "name": "Bookbinder",
+            "details": ""
+        },
+        {
+            "name": "Bookseller",
+            "details": ""
+        },
+        {
+            "name": "Candy Maker",
+            "details": ""
+        },
+        {
+            "name": "Clockmaker",
+            "details": ""
+        },
+        {
+            "name": "Cosmetics Dealer",
+            "details": ""
+        },
+        {
+            "name": "Curio Dealer",
+            "details": ""
+        },
+        {
+            "name": "Dice Maker",
+            "details": ""
+        },
+        {
+            "name": "Distiller",
+            "details": ""
+        },
+        {
+            "name": "Draper",
+            "details": ""
+        },
+        {
+            "name": "Toy Maker",
+            "details": ""
+        },
+        {
+            "name": "Fine Clothier",
+            "details": ""
+        },
+        {
+            "name": "Gem Cutter",
+            "details": ""
+        },
+        {
+            "name": "Girdler",
+            "details": ""
+        },
+        {
+            "name": "Glassblower",
+            "details": ""
+        },
+        {
+            "name": "Glazier",
+            "details": ""
+        },
+        {
+            "name": "Goldsmith",
+            "details": ""
+        },
+        {
+            "name": "Ink Maker",
+            "details": ""
+        },
+        {
+            "name": "Jeweler",
+            "details": ""
+        },
+        {
+            "name": "Paper Maker",
+            "details": ""
+        }
+    ],
+    "averageShops": [
+        {
+            "name": "Ale Merchant",
+            "details": ""
+        },
+        {
+            "name": "Armorer",
+            "details": ""
+        },
+        {
+            "name": "Baker",
+            "details": ""
+        },
+        {
+            "name": "Bazaar Merchant",
+            "details": ""
+        },
+        {
+            "name": "Beekeeper",
+            "details": ""
+        },
+        {
+            "name": "Beer Merchant",
+            "details": ""
+        },
+        {
+            "name": "Bell Maker",
+            "details": ""
+        },
+        {
+            "name": "Blacksmith",
+            "details": ""
+        },
+        {
+            "name": "Bone Carver",
+            "details": ""
+        },
+        {
+            "name": "Bottler",
+            "details": ""
+        },
+        {
+            "name": "Bowyer",
+            "details": ""
+        },
+        {
+            "name": "Brandy Merchant",
+            "details": ""
+        },
+        {
+            "name": "Brewer",
+            "details": ""
+        },
+        {
+            "name": "Butcher",
+            "details": ""
+        },
+        {
+            "name": "Button Maker",
+            "details": ""
+        },
+        {
+            "name": "Cabinet Maker",
+            "details": ""
+        },
+        {
+            "name": "Carpenter",
+            "details": ""
+        },
+        {
+            "name": "Carpet Maker",
+            "details": ""
+        },
+        {
+            "name": "Cartwright",
+            "details": ""
+        },
+        {
+            "name": "Chain Maker",
+            "details": ""
+        },
+        {
+            "name": "Chandler",
+            "details": ""
+        },
+        {
+            "name": "Cheese Maker",
+            "details": ""
+        },
+        {
+            "name": "Chemist",
+            "details": ""
+        },
+        {
+            "name": "Clothier",
+            "details": ""
+        },
+        {
+            "name": "Cobbler",
+            "details": ""
+        },
+        {
+            "name": "Cooper",
+            "details": ""
+        },
+        {
+            "name": "Coppersmith",
+            "details": ""
+        },
+        {
+            "name": "Cutler",
+            "details": ""
+        },
+        {
+            "name": "Dairy Merchant",
+            "details": ""
+        },
+        {
+            "name": "Fletcher",
+            "details": ""
+        },
+        {
+            "name": "Florist",
+            "details": ""
+        },
+        {
+            "name": "Furniture Maker",
+            "details": ""
+        },
+        {
+            "name": "Furrier",
+            "details": ""
+        },
+        {
+            "name": "Glove Maker",
+            "details": ""
+        },
+        {
+            "name": "Grocer",
+            "details": ""
+        },
+        {
+            "name": "Haberdasher",
+            "details": ""
+        },
+        {
+            "name": "Hardware Seller",
+            "details": ""
+        },
+        {
+            "name": "Herbalist",
+            "details": ""
+        },
+        {
+            "name": "High-Quality Fence/Dealer",
+            "details": ""
+        },
+        {
+            "name": "Ivory Merchant",
+            "details": ""
+        },
+        {
+            "name": "Joiner",
+            "details": ""
+        },
+        {
+            "name": "Knifesmith",
+            "details": ""
+        },
+        {
+            "name": "Lace Maker",
+            "details": ""
+        },
+        {
+            "name": "Lamp Maker",
+            "details": ""
+        },
+        {
+            "name": "Lead Worker",
+            "details": ""
+        },
+        {
+            "name": "Locksmith",
+            "details": ""
+        },
+        {
+            "name": "Luthier",
+            "details": "Lute maker"
+        },
+        {
+            "name": "Mason",
+            "details": ""
+        },
+        {
+            "name": "Mead Merchant",
+            "details": ""
+        },
+        {
+            "name": "Merchant",
+            "details": "Dealing in general trade goods"
+        },
+        {
+            "name": "Milliner",
+            "details": ""
+        },
+        {
+            "name": "Music Dealer",
+            "details": ""
+        },
+        {
+            "name": "Outfitter",
+            "details": ""
+        },
+        {
+            "name": "Parchment Maker",
+            "details": ""
+        },
+        {
+            "name": "Pastry Cook",
+            "details": ""
+        },
+        {
+            "name": "Pewterer",
+            "details": ""
+        },
+        {
+            "name": "Playwright",
+            "details": ""
+        },
+        {
+            "name": "Plumber/Dredger",
+            "details": ""
+        },
+        {
+            "name": "Poet",
+            "details": ""
+        },
+        {
+            "name": "Potter",
+            "details": ""
+        },
+        {
+            "name": "Provisioner",
+            "details": ""
+        },
+        {
+            "name": "Purse Maker",
+            "details": ""
+        },
+        {
+            "name": "Quill Maker",
+            "details": ""
+        },
+        {
+            "name": "Quilter",
+            "details": ""
+        },
+        {
+            "name": "Religious Items Dealer",
+            "details": ""
+        },
+        {
+            "name": "Roofer",
+            "details": ""
+        },
+        {
+            "name": "Rope Maker",
+            "details": ""
+        },
+        {
+            "name": "Rum Merchant",
+            "details": ""
+        },
+        {
+            "name": "Saddler",
+            "details": ""
+        },
+        {
+            "name": "Sail Maker",
+            "details": ""
+        },
+        {
+            "name": "Salter",
+            "details": ""
+        },
+        {
+            "name": "Scabbard Maker",
+            "details": ""
+        },
+        {
+            "name": "Sculptor",
+            "details": ""
+        },
+        {
+            "name": "Seal Maker",
+            "details": ""
+        },
+        {
+            "name": "Seamstress",
+            "details": ""
+        },
+        {
+            "name": "Shingler",
+            "details": ""
+        },
+        {
+            "name": "Shipwright",
+            "details": ""
+        },
+        {
+            "name": "Silk Merchant",
+            "details": ""
+        },
+        {
+            "name": "Silversmith",
+            "details": ""
+        },
+        {
+            "name": "Slaver Trader",
+            "details": ""
+        },
+        {
+            "name": "Stonecutter",
+            "details": ""
+        },
+        {
+            "name": "Tailor",
+            "details": ""
+        },
+        {
+            "name": "Tapestry Maker",
+            "details": ""
+        },
+        {
+            "name": "Taxidermist",
+            "details": ""
+        },
+        {
+            "name": "Thatcher",
+            "details": ""
+        },
+        {
+            "name": "Thread Maker",
+            "details": ""
+        },
+        {
+            "name": "Tile Maker",
+            "details": ""
+        },
+        {
+            "name": "Tiler",
+            "details": ""
+        },
+        {
+            "name": "Tinker",
+            "details": ""
+        },
+        {
+            "name": "Tobacco Merchant",
+            "details": ""
+        },
+        {
+            "name": "Vintner",
+            "details": ""
+        },
+        {
+            "name": "Weaponsmith",
+            "details": ""
+        },
+        {
+            "name": "Weaver",
+            "details": ""
+        },
+        {
+            "name": "Wheelwright",
+            "details": ""
+        },
+        {
+            "name": "Whip Maker",
+            "details": ""
+        },
+        {
+            "name": "Wig Maker",
+            "details": ""
+        },
+        {
+            "name": "Wiresmith",
+            "details": ""
+        },
+        {
+            "name": "Wine Merchant",
+            "details": ""
+        },
+        {
+            "name": "Wood Worker",
+            "details": ""
+        },
+        {
+            "name": "Writer",
+            "details": ""
+        }
+    ],
+    "lowQualityShops": [
+        {
+            "name": "Bait and Tackle",
+            "details": ""
+        },
+        {
+            "name": "Trinket Peddler",
+            "details": ""
+        },
+        {
+            "name": "Brick Maker",
+            "details": ""
+        },
+        {
+            "name": "Wool Merchant",
+            "details": ""
+        },
+        {
+            "name": "Buckle Maker",
+            "details": ""
+        },
+        {
+            "name": "Candle Maker",
+            "details": ""
+        },
+        {
+            "name": "Tanner",
+            "details": ""
+        },
+        {
+            "name": "Dyer",
+            "details": ""
+        },
+        {
+            "name": "Thatcher",
+            "details": ""
+        },
+        {
+            "name": "Fishmonger",
+            "details": ""
+        },
+        {
+            "name": "Fuller",
+            "details": ""
+        },
+        {
+            "name": "Hay Seller",
+            "details": ""
+        },
+        {
+            "name": "Leatherworker",
+            "details": ""
+        },
+        {
+            "name": "Livestock Merchant",
+            "details": ""
+        },
+        {
+            "name": "Lumberer",
+            "details": ""
+        },
+        {
+            "name": "Miller",
+            "details": ""
+        },
+        {
+            "name": "Net Maker",
+            "details": ""
+        },
+        {
+            "name": "Roofer",
+            "details": ""
+        },
+        {
+            "name": "Rope Maker",
+            "details": ""
+        },
+        {
+            "name": "Rug Maker",
+            "details": ""
+        }
+    ],
+    "impoverishedShops": [
+        {
+            "name": "Meat Pie Vender",
+            "details": ""
+        },
+        {
+            "name": "Pigeon Seller",
+            "details": ""
+        },
+        {
+            "name": "Knickknack Peddler",
+            "details": ""
+        },
+        {
+            "name": "Straw Seller",
+            "details": ""
+        },
+        {
+            "name": "Stolen Goods Seller",
+            "details": ""
+        },
+        {
+            "name": "Low-Quality Fence/Dealer",
+            "details": ""
+        },
+        {
+            "name": "Firewood Seller",
+            "details": ""
+        },
+        {
+            "name": "Charcoal Burner",
+            "details": ""
+        },
+        {
+            "name": "Basket Weaver",
+            "details": ""
+        },
+        {
+            "name": "Broom Maker",
+            "details": ""
+        }
+    ],
+    "exoticServices": [
+        {
+            "name": "Astrologer",
+            "details": ""
+        },
+        {
+            "name": "Historian",
+            "details": ""
+        },
+        {
+            "name": "Master Storyteller",
+            "details": ""
+        },
+        {
+            "name": "Bounty Hunter",
+            "details": ""
+        },
+        {
+            "name": "Specialty Spellcaster for Hire",
+            "details": ""
+        },
+        {
+            "name": "Masseur",
+            "details": ""
+        },
+        {
+            "name": "Instrument Maker",
+            "details": ""
+        },
+        {
+            "name": "Engineer",
+            "details": ""
+        },
+        {
+            "name": "Mewskeeper",
+            "details": ""
+        },
+        {
+            "name": "Kennel Master",
+            "details": ""
+        }
+    ],
+    "highQualityServices": [
+        {
+            "name": "Animal Trainer",
+            "details": ""
+        },
+        {
+            "name": "Apothecary",
+            "details": ""
+        },
+        {
+            "name": "Architect",
+            "details": ""
+        },
+        {
+            "name": "Assassin",
+            "details": ""
+        },
+        {
+            "name": "Auctioneer",
+            "details": ""
+        },
+        {
+            "name": "Banker",
+            "details": ""
+        },
+        {
+            "name": "Barrister",
+            "details": ""
+        },
+        {
+            "name": "Cartographer",
+            "details": ""
+        },
+        {
+            "name": "Professional Chef",
+            "details": ""
+        },
+        {
+            "name": "Dentist",
+            "details": ""
+        },
+        {
+            "name": "Engraver",
+            "details": ""
+        },
+        {
+            "name": "Illuminator",
+            "details": ""
+        },
+        {
+            "name": "Bookkeeper",
+            "details": ""
+        },
+        {
+            "name": "Veterinarian",
+            "details": ""
+        },
+        {
+            "name": "Sage",
+            "details": ""
+        },
+        {
+            "name": "Scribe",
+            "details": ""
+        },
+        {
+            "name": "Spellcaster for Hire",
+            "details": ""
+        },
+        {
+            "name": "Translator",
+            "details": ""
+        },
+        {
+            "name": "Tutor",
+            "details": ""
+        },
+        {
+            "name": "Undertaker",
+            "details": ""
+        }
+    ],
+    "averageServices": [
+        {
+            "name": "Teacher",
+            "details": ""
+        },
+        {
+            "name": "Barber",
+            "details": ""
+        },
+        {
+            "name": "Tattooer",
+            "details": ""
+        },
+        {
+            "name": "Brothel Owner",
+            "details": ""
+        },
+        {
+            "name": "Clerk",
+            "details": ""
+        },
+        {
+            "name": "Cook",
+            "details": ""
+        },
+        {
+            "name": "Fortuneteller",
+            "details": ""
+        },
+        {
+            "name": "Freight Shipper",
+            "details": ""
+        },
+        {
+            "name": "Gardener",
+            "details": ""
+        },
+        {
+            "name": "Guide",
+            "details": ""
+        },
+        {
+            "name": "Healer",
+            "details": ""
+        },
+        {
+            "name": "Horse Trainer",
+            "details": ""
+        },
+        {
+            "name": "Interpreter",
+            "details": ""
+        },
+        {
+            "name": "Laundress",
+            "details": ""
+        },
+        {
+            "name": "Mercenary",
+            "details": ""
+        },
+        {
+            "name": "Messenger",
+            "details": ""
+        },
+        {
+            "name": "Stable Owner",
+            "details": ""
+        },
+        {
+            "name": "Moneychanger",
+            "details": ""
+        },
+        {
+            "name": "Navigator",
+            "details": ""
+        },
+        {
+            "name": "Painter",
+            "details": ""
+        }
+    ],
+    "lowQualityServices": [
+        {
+            "name": "Acrobat",
+            "details": ""
+        },
+        {
+            "name": "Apprentice",
+            "details": ""
+        },
+        {
+            "name": "Actor",
+            "details": ""
+        },
+        {
+            "name": "Boater",
+            "details": ""
+        },
+        {
+            "name": "Sellsword",
+            "details": ""
+        },
+        {
+            "name": "Minstrel",
+            "details": ""
+        },
+        {
+            "name": "Building Painter",
+            "details": ""
+        },
+        {
+            "name": "Ship Painter",
+            "details": ""
+        },
+        {
+            "name": "Carter",
+            "details": ""
+        },
+        {
+            "name": "Bookie",
+            "details": ""
+        },
+        {
+            "name": "Gambling Hall Owner",
+            "details": ""
+        },
+        {
+            "name": "Teamster",
+            "details": ""
+        },
+        {
+            "name": "Warehouse Owner",
+            "details": ""
+        },
+        {
+            "name": "Low-Class Brothel Owner",
+            "details": ""
+        },
+        {
+            "name": "Limner",
+            "details": ""
+        },
+        {
+            "name": "Linkboy",
+            "details": ""
+        },
+        {
+            "name": "Livestock Handler",
+            "details": ""
+        },
+        {
+            "name": "Moneylender",
+            "details": ""
+        },
+        {
+            "name": "Nursemaid",
+            "details": ""
+        },
+        {
+            "name": "Pawnshop",
+            "details": ""
+        }
+    ],
+    "impoverishedServices": [
+        {
+            "name": "Beggar",
+            "details": ""
+        },
+        {
+            "name": "Dangerous Brother Owner",
+            "details": ""
+        },
+        {
+            "name": "Rat Catcher",
+            "details": ""
+        },
+        {
+            "name": "Thug for Hire",
+            "details": ""
+        },
+        {
+            "name": "Dogfight Pitmaster",
+            "details": ""
+        },
+        {
+            "name": "Wet Nurse",
+            "details": ""
+        },
+        {
+            "name": "Buffoon",
+            "details": ""
+        },
+        {
+            "name": "Juggler",
+            "details": ""
+        },
+        {
+            "name": "Laborer",
+            "details": ""
+        },
+        {
+            "name": "Porter",
+            "details": ""
+        },
+        {
+            "name": "Shepherd",
+            "details": ""
+        },
+        {
+            "name": "Burglar",
+            "details": ""
+        }
+    ],
+    "floorPlan": [
+        {
+            "name": "1 story",
+            "details": "",
+            "lowValue": 1,
+            "highValue": 60
+        },
+        {
+            "name": "1 story, 1-floor basement",
+            "details": "",
+            "lowValue": 61,
+            "highValue": 70
+        },
+        {
+            "name": "1 story, 1-story tower/turret",
+            "details": "",
+            "lowValue": 71,
+            "highValue": 75
+        },
+        {
+            "name": "1 story, 1-floor basement, 1-story tower/turret",
+            "details": "",
+            "lowValue": 76,
+            "highValue": 80
+        },
+        {
+            "name": "2 stories",
+            "details": "",
+            "lowValue": 81,
+            "highValue": 100
+        },
+        {
+            "name": "2 stories, 1-floor basement",
+            "details": "",
+            "lowValue": 101,
+            "highValue": 103
+        },
+        {
+            "name": "2 stories, 1-story tower/turret",
+            "details": "",
+            "lowValue": 104,
+            "highValue": 106
+        },
+        {
+            "name": "2 stories, 2-floor basement",
+            "details": "",
+            "lowValue": 107,
+            "highValue": 107
+        },
+        {
+            "name": "2 stories, 2-story tower/turret",
+            "details": "",
+            "lowValue": 108,
+            "highValue": 108
+        },
+        {
+            "name": "2 stories, 1-floor basement, 1-story tower/turret",
+            "details": "",
+            "lowValue": 109,
+            "highValue": 109
+        },
+        {
+            "name": "2 stories, 1-flood basement, 2-story tower/turret",
+            "details": "",
+            "lowValue": 110,
+            "highValue": 110
+        },
+        {
+            "name": "3 stories",
+            "details": "",
+            "lowValue": 111,
+            "highValue": 122
+        },
+        {
+            "name": "3 stories, 1-flood basement",
+            "details": "",
+            "lowValue": 123,
+            "highValue": 123
+        },
+        {
+            "name": "3 stories, 1-story tower/turret",
+            "details": "",
+            "lowValue": 124,
+            "highValue": 124
+        },
+        {
+            "name": "3 stories, 2-floor basement",
+            "details": "",
+            "lowValue": 125,
+            "highValue": 125
+        },
+        {
+            "name": "3 stories, 2-story tower/turret",
+            "details": "",
+            "lowValue": 126,
+            "highValue": 126
+        },
+        {
+            "name": "3 stories, 1-floor basement, 1-story tower/turret",
+            "details": "",
+            "lowValue": 127,
+            "highValue": 127
+        },
+        {
+            "name": "3 stories, 1-floor basement, 2-story tower/turret",
+            "details": "",
+            "lowValue": 128,
+            "highValue": 128
+        },
+        {
+            "name": "3 stories, 2-floor basement, 1-story tower/turret",
+            "details": "",
+            "lowValue": 129,
+            "highValue": 129
+        },
+        {
+            "name": "3 stories, 2-floor basement, 2-story tower/turret",
+            "details": "",
+            "lowValue": 130,
+            "highValue": 130
+        },
+        {
+            "name": "4 stories",
+            "details": "",
+            "lowValue": 131,
+            "highValue": 131
+        },
+        {
+            "name": "4 stories, 1-floor basement",
+            "details": "",
+            "lowValue": 132,
+            "highValue": 132
+        },
+        {
+            "name": "4 stories, 1-story tower/turret",
+            "details": "",
+            "lowValue": 133,
+            "highValue": 133
+        },
+        {
+            "name": "4 stories, 2-floor basement",
+            "details": "",
+            "lowValue": 134,
+            "highValue": 134
+        },
+        {
+            "name": "4 stories, 2-story tower/turret",
+            "details": "",
+            "lowValue": 135,
+            "highValue": 135
+        },
+        {
+            "name": "4 stories, 1-floor basement, 1-story tower/turret",
+            "details": "",
+            "lowValue": 136,
+            "highValue": 136
+        },
+        {
+            "name": "4 stories, 1-floor basement, 2-story tower/turret",
+            "details": "",
+            "lowValue": 137,
+            "highValue": 137
+        },
+        {
+            "name": "4 stories, 2-floor basement, 1 story tower/turret",
+            "details": "",
+            "lowValue": 138,
+            "highValue": 138
+        },
+        {
+            "name": "4 stories, 2-floor basement, 2-story tower/turret",
+            "details": "",
+            "lowValue": 139,
+            "highValue": 139
+        },
+        {
+            "name": "5 stories, 3-floor basement, 2-story tower/turret",
+            "details": "",
+            "lowValue": 140,
+            "highValue": 140
+        }
+    ],
+    "interior": [
+        {
+            "name": "Ramshackle",
+            "details": "",
+            "lowValue": 1,
+            "highValue": 1
+        },
+        {
+            "name": "Shoddy",
+            "details": "",
+            "lowValue": 2,
+            "highValue": 2
+        },
+        {
+            "name": "Sparse",
+            "details": "",
+            "lowValue": 3,
+            "highValue": 3
+        },
+        {
+            "name": "Spartan",
+            "details": "",
+            "lowValue": 4,
+            "highValue": 4
+        },
+        {
+            "name": "Dirty",
+            "details": "",
+            "lowValue": 5,
+            "highValue": 5
+        },
+        {
+            "name": "Damaged",
+            "details": "",
+            "lowValue": 6,
+            "highValue": 6
+        },
+        {
+            "name": "Weathered",
+            "details": "",
+            "lowValue": 7,
+            "highValue": 7
+        },
+        {
+            "name": "Aged",
+            "details": "",
+            "lowValue": 8,
+            "highValue": 8
+        },
+        {
+            "name": "Dusty",
+            "details": "",
+            "lowValue": 9,
+            "highValue": 9
+        },
+        {
+            "name": "Modest",
+            "details": "",
+            "lowValue": 10,
+            "highValue": 10
+        },
+        {
+            "name": "Cozy",
+            "details": "",
+            "lowValue": 11,
+            "highValue": 11
+        },
+        {
+            "name": "Rustic",
+            "details": "",
+            "lowValue": 12,
+            "highValue": 12
+        },
+        {
+            "name": "Open",
+            "details": "",
+            "lowValue": 13,
+            "highValue": 13
+        },
+        {
+            "name": "Windowed",
+            "details": "",
+            "lowValue": 14,
+            "highValue": 14
+        },
+        {
+            "name": "Spotless",
+            "details": "",
+            "lowValue": 15,
+            "highValue": 15
+        },
+        {
+            "name": "New/Renovated",
+            "details": "",
+            "lowValue": 16,
+            "highValue": 16
+        },
+        {
+            "name": "Elegant",
+            "details": "",
+            "lowValue": 17,
+            "highValue": 17
+        },
+        {
+            "name": "Solid Crafting",
+            "details": "",
+            "lowValue": 18,
+            "highValue": 18
+        },
+        {
+            "name": "Eccentric",
+            "details": "",
+            "lowValue": 19,
+            "highValue": 19
+        },
+        {
+            "name": "Refined",
+            "details": "",
+            "lowValue": 20,
+            "highValue": 20
+        },
+        {
+            "name": "Baroque",
+            "details": "",
+            "lowValue": 21,
+            "highValue": 21
+        },
+        {
+            "name": "Decadent",
+            "details": "",
+            "lowValue": 22,
+            "highValue": 22
+        },
+        {
+            "name": "Gothic",
+            "details": "",
+            "lowValue": 23,
+            "highValue": 23
+        },
+        {
+            "name": "Supernatural",
+            "details": "",
+            "lowValue": 24,
+            "highValue": 24
+        }
+    ],
+    "decor": [
+        {
+            "name": "Hanging Plants",
+            "details": ""
+        },
+        {
+            "name": "Pedestal",
+            "details": ""
+        },
+        {
+            "name": "Statue",
+            "details": ""
+        },
+        {
+            "name": "Sculpture",
+            "details": ""
+        },
+        {
+            "name": "Tree",
+            "details": ""
+        },
+        {
+            "name": "Potted Plant",
+            "details": ""
+        },
+        {
+            "name": "Candlesticks",
+            "details": ""
+        },
+        {
+            "name": "Lamps",
+            "details": ""
+        },
+        {
+            "name": "Fountain",
+            "details": ""
+        },
+        {
+            "name": "Thick Carpets",
+            "details": ""
+        },
+        {
+            "name": "Pillows",
+            "details": ""
+        },
+        {
+            "name": "Musical Instruments",
+            "details": ""
+        },
+        {
+            "name": "Urn/Vase",
+            "details": ""
+        },
+        {
+            "name": "Stained Glass",
+            "details": ""
+        },
+        {
+            "name": "Mounted Animal Head",
+            "details": ""
+        },
+        {
+            "name": "Portrait Drawing",
+            "details": ""
+        },
+        {
+            "name": "Portrait Painting",
+            "details": ""
+        },
+        {
+            "name": "Landscape Painting",
+            "details": ""
+        },
+        {
+            "name": "Glass Sculpture",
+            "details": ""
+        },
+
+        {
+            "name": "Monument",
+            "details": ""
+        }
+    ],
+    "walls": [
+        {
+            "name": "Mud/Earth",
+            "details": "",
+            "lowValue": 1,
+            "highValue": 4
+        },
+        {
+            "name": "Thatched",
+            "details": "",
+            "lowValue": 5,
+            "highValue": 5
+        },
+        {
+            "name": "Wattle & Daub",
+            "details": "",
+            "lowValue": 6,
+            "highValue": 7
+        },
+        {
+            "name": "Wood",
+            "details": "",
+            "lowValue": 8,
+            "highValue": 12
+        },
+        {
+            "name": "Stone",
+            "details": "",
+            "lowValue": 13,
+            "highValue": 18
+        },
+        {
+            "name": "Bricks",
+            "details": "",
+            "lowValue": 19,
+            "highValue": 22
+        },
+        {
+            "name": "Marble or Granite",
+            "details": "",
+            "lowValue": 23,
+            "highValue": 24
+        }
+    ],
+    "floors": [
+        {
+            "name": "Leaves and/or Grass",
+            "details": "",
+            "lowValue": 1,
+            "highValue": 2
+        },
+        {
+            "name": "Mud and/or Earth",
+            "details": "",
+            "lowValue": 3,
+            "highValue": 4
+        },
+        {
+            "name": "Straw",
+            "details": "",
+            "lowValue": 5,
+            "highValue": 7
+        },
+        {
+            "name": "Loose Wooden Boards & Sawdust",
+            "details": "",
+            "lowValue": 8,
+            "highValue": 10
+        },
+        {
+            "name": "Loose Wooden Boards",
+            "details": "",
+            "lowValue": 11,
+            "highValue": 13
+        },
+        {
+            "name": "Firm Wooden Boards",
+            "details": "",
+            "lowValue": 14,
+            "highValue": 16
+        },
+        {
+            "name": "Stone",
+            "details": "",
+            "lowValue": 17,
+            "highValue": 22
+        },
+        {
+            "name": "Marble or Granite",
+            "details": "",
+            "lowValue": 23,
+            "highValue": 24
+        }
+    ],
+    "rooftop": [
+        {
+            "name": "Leaves and/or Grass",
+            "details": "",
+            "lowValue": 1,
+            "highValue": 1
+        },
+        {
+            "name": "Mud and Earth",
+            "details": "",
+            "lowValue": 2,
+            "highValue": 3
+        },
+        {
+            "name": "Thatched",
+            "details": "",
+            "lowValue": 3,
+            "highValue": 5
+        },
+        {
+            "name": "Wattle & Daub",
+            "details": "",
+            "lowValue": 6,
+            "highValue": 9
+        },
+        {
+            "name": "Weatherproof Skins and Leathers",
+            "details": "",
+            "lowValue": 10,
+            "highValue": 10
+        },
+        {
+            "name": "Wooden Boards",
+            "details": "",
+            "lowValue": 11,
+            "highValue": 11
+        },
+        {
+            "name": "Wooden Shingles",
+            "details": "",
+            "lowValue": 12,
+            "highValue": 12
+        },
+        {
+            "name": "Slate Tiles",
+            "details": "",
+            "lowValue": 13,
+            "highValue": 13
+        },
+        {
+            "name": "Stone",
+            "details": "",
+            "lowValue": 14,
+            "highValue": 14
+        },
+        {
+            "name": "Bricks",
+            "details": "",
+            "lowValue": 15,
+            "highValue": 16
+        },
+        {
+            "name": "Iron Shingles",
+            "details": "",
+            "lowValue": 17,
+            "highValue": 17
+        },
+        {
+            "name": "Plaster and/or Mortar",
+            "details": "",
+            "lowValue": 18,
+            "highValue": 19
+        },
+        {
+            "name": "Marble or Granite",
+            "details": "",
+            "lowValue": 20,
+            "highValue": 20
+        }
+    ],
+    "understoryWallsFloors": [
+        {
+            "name": "Earth and/or Dirt",
+            "details": "",
+            "lowValue": 1,
+            "highValue": 4
+        },
+        {
+            "name": "Wattle & Daub",
+            "details": "",
+            "lowValue": 5,
+            "highValue": 5
+        },
+        {
+            "name": "Loose Wooden Boards",
+            "details": "",
+            "lowValue": 6,
+            "highValue": 9
+        },
+        {
+            "name": "Firm Wooden Boards",
+            "details": "",
+            "lowValue": 10,
+            "highValue": 14
+        },
+        {
+            "name": "Stone",
+            "details": "",
+            "lowValue": 15,
+            "highValue": 19
+        },
+        {
+            "name": "Bricks",
+            "details": "",
+            "lowValue": 20,
+            "highValue": 22
+        },
+        {
+            "name": "Marble or Granite",
+            "details": "",
+            "lowValue": 23,
+            "highValue": 24
+        }
+    ],
+    "sublevels": [
+        {
+            "name": "No Sublevel",
+            "details": "",
+            "lowValue": 1,
+            "highValue": 13
+        },
+        {
+            "name": "Subterranean Cemetery",
+            "details": "",
+            "lowValue": 14,
+            "highValue": 14
+        },
+        {
+            "name": "Smuggler Tunnels",
+            "details": "",
+            "lowValue": 15,
+            "highValue": 16
+        },
+        {
+            "name": "Transport Tunnels",
+            "details": "",
+            "lowValue": 17,
+            "highValue": 19
+        },
+        {
+            "name": "Mining Tunnels",
+            "details": "",
+            "lowValue": 20,
+            "highValue": 20
+        },
+        {
+            "name": "Connected Cellars",
+            "details": "",
+            "lowValue": 21,
+            "highValue": 22
+        },
+        {
+            "name": "Low-Quality Sewers",
+            "details": "",
+            "lowValue": 23,
+            "highValue": 25
+        },
+        {
+            "name": "High-Quality Sewers",
+            "details": "",
+            "lowValue": 26,
+            "highValue": 28
+        },
+        {
+            "name": "Modern Catacombs",
+            "details": "",
+            "lowValue": 29,
+            "highValue": 29
+        },
+        {
+            "name": "Ancient Catacombs",
+            "details": "",
+            "lowValue": 30,
+            "highValue": 30
+        }
+    ],
+    "terrain": [
+        {
+            "name": "Grassland",
+            "details": ""
+        },
+        {
+            "name": "Plains",
+            "details": ""
+        },
+        {
+            "name": "Prairie",
+            "details": ""
+        },
+        {
+            "name": "Hills",
+            "details": ""
+        },
+        {
+            "name": "Mountain",
+            "details": ""
+        },
+        {
+            "name": "Forest",
+            "details": ""
+        },
+        {
+            "name": "Lake",
+            "details": ""
+        },
+        {
+            "name": "Scrubland",
+            "details": ""
+        },
+        {
+            "name": "Shore",
+            "details": ""
+        },
+        {
+            "name": "Valley",
+            "details": ""
+        },
+        {
+            "name": "Rocky Badlands",
+            "details": ""
+        },
+        {
+            "name": "Canyon",
+            "details": ""
+        },
+        {
+            "name": "Swamp",
+            "details": ""
+        },
+        {
+            "name": "Marsh",
+            "details": ""
+        },
+        {
+            "name": "River",
+            "details": ""
+        },
+        {
+            "name": "Steppe",
+            "details": ""
+        },
+        {
+            "name": "Oasis",
+            "details": ""
+        },
+        {
+            "name": "Desert",
+            "details": ""
+        },
+        {
+            "name": "Tundra",
+            "details": ""
+        },
+        {
+            "name": "Arctic",
+            "details": ""
+        }
+    ],
+    "crops": [
+        {
+            "name": "Barley",
+            "details": "",
+            "lowValue": 0,
+            "highValue": 0
+        },
+        {
+            "name": "Wheat",
+            "details": "",
+            "lowValue": 0,
+            "highValue": 0
+        },
+        {
+            "name": "Oats",
+            "details": "",
+            "lowValue": 0,
+            "highValue": 0
+        },
+        {
+            "name": "Rye",
+            "details": "",
+            "lowValue": 0,
+            "highValue": 0
+        },
+        {
+            "name": "Olives",
+            "details": "",
+            "lowValue": 0,
+            "highValue": 0
+        },
+        {
+            "name": "Spinach",
+            "details": "",
+            "lowValue": 0,
+            "highValue": 0
+        },
+        {
+            "name": "Cabbages",
+            "details": "",
+            "lowValue": 0,
+            "highValue": 0
+        },
+        {
+            "name": "Beans",
+            "details": "",
+            "lowValue": 0,
+            "highValue": 0
+        },
+        {
+            "name": "Peas",
+            "details": "",
+            "lowValue": 0,
+            "highValue": 0
+        },
+        {
+            "name": "Onions",
+            "details": "",
+            "lowValue": 0,
+            "highValue": 0
+        },
+        {
+            "name": "Potatoes",
+            "details": "",
+            "lowValue": 0,
+            "highValue": 0
+        },
+        {
+            "name": "Apple Trees",
+            "details": "",
+            "lowValue": 0,
+            "highValue": 0
+        },
+        {
+            "name": "Pear Trees",
+            "details": "",
+            "lowValue": 0,
+            "highValue": 0
+        },
+        {
+            "name": "Turnips",
+            "details": "",
+            "lowValue": 0,
+            "highValue": 0
+        },
+        {
+            "name": "Rice",
+            "details": "",
+            "lowValue": 0,
+            "highValue": 0
+        },
+        {
+            "name": "Orange Trees",
+            "details": "",
+            "lowValue": 0,
+            "highValue": 0
+        },
+        {
+            "name": "Lime Trees",
+            "details": "",
+            "lowValue": 0,
+            "highValue": 0
+        },
+        {
+            "name": "Lemon Trees",
+            "details": "",
+            "lowValue": 0,
+            "highValue": 0
+        },
+        {
+            "name": "Eggplant",
+            "details": "",
+            "lowValue": 0,
+            "highValue": 0
+        },
+        {
+            "name": "Sugar Cane",
+            "details": "",
+            "lowValue": 0,
+            "highValue": 0
+        },
+        {
+            "name": "Cotton",
+            "details": "",
+            "lowValue": 0,
+            "highValue": 0
+        },
+        {
+            "name": "Tobacco",
+            "details": "",
+            "lowValue": 0,
+            "highValue": 0
+        },
+        {
+            "name": "Cinnamon",
+            "details": "",
+            "lowValue": 0,
+            "highValue": 0
+        },
+        {
+            "name": "Nutmeg",
+            "details": "",
+            "lowValue": 0,
+            "highValue": 0
+        },
+        {
+            "name": "Coriander",
+            "details": "",
+            "lowValue": 0,
+            "highValue": 0
+        }
+    ],
+    "climate": [
+        {
+            "name": "Tropical | Very Hot & Wet",
+            "details": "",
+            "lowValue": 1,
+            "highValue": 2
+        },
+        {
+            "name": "Humid | Hot & Wet",
+            "details": "",
+            "lowValue": 3,
+            "highValue": 5
+        },
+        {
+            "name": "Desert | Hot & Dry",
+            "details": "",
+            "lowValue": 6,
+            "highValue": 6
+        },
+        {
+            "name": "Mild/Moderate",
+            "details": "",
+            "lowValue": 7,
+            "highValue": 13
+        },
+        {
+            "name": "Damp | Cold & Wet",
+            "details": "",
+            "lowValue": 14,
+            "highValue": 17
+        },
+        {
+            "name": "Tundra | Cold & Dry",
+            "details": "",
+            "lowValue": 18,
+            "highValue": 19
+        },
+        {
+            "name": "Arctic | Very Cold & Dry",
+            "details": "",
+            "lowValue": 20,
+            "highValue": 20
+        }
+    ],
+    "weather": [
+        {
+            "name": "Rain",
+            "details": ""
+        },
+        {
+            "name": "Downpour",
+            "details": ""
+        },
+        {
+            "name": "Cold",
+            "details": ""
+        },
+        {
+            "name": "Warm",
+            "details": ""
+        },
+        {
+            "name": "Hot",
+            "details": ""
+        },
+        {
+            "name": "Freezing",
+            "details": ""
+        },
+        {
+            "name": "Thunderstorm",
+            "details": ""
+        },
+        {
+            "name": "Fog",
+            "details": ""
+        },
+        {
+            "name": "Snow",
+            "details": ""
+        },
+        {
+            "name": "Heavy Snow",
+            "details": ""
+        },
+        {
+            "name": "Blustery",
+            "details": ""
+        },
+        {
+            "name": "Heavy Winds",
+            "details": ""
+        },
+        {
+            "name": "Breezy",
+            "details": ""
+        },
+        {
+            "name": "Sleet",
+            "details": ""
+        },
+        {
+            "name": "Hail",
+            "details": ""
+        },
+        {
+            "name": "Dust Storm or Sand Storm",
+            "details": ""
+        },
+        {
+            "name": "Clear",
+            "details": ""
+        },
+        {
+            "name": "Cloudy",
+            "details": ""
+        },
+        {
+            "name": "Misty",
+            "details": ""
+        },
+        {
+            "name": "Natural Disaster",
+            "details": ""
+        }
+    ],
+    "naturalDisasters": [
+        {
+            "name": "Severe Heat Wave",
+            "details": ""
+        },
+        {
+            "name": "Blight",
+            "details": ""
+        },
+        {
+            "name": "Drought",
+            "details": ""
+        },
+        {
+            "name": "Tsunami",
+            "details": ""
+        },
+        {
+            "name": "Flood",
+            "details": ""
+        },
+        {
+            "name": "Hailstorm",
+            "details": ""
+        },
+        {
+            "name": "Hurricane",
+            "details": ""
+        },
+        {
+            "name": "Heavy Fog",
+            "details": ""
+        },
+        {
+            "name": "Meteorite Impact",
+            "details": ""
+        },
+        {
+            "name": "Blizzard",
+            "details": ""
+        },
+        {
+            "name": "Lightning Storm",
+            "details": ""
+        },
+        {
+            "name": "Typhoon",
+            "details": ""
+        },
+        {
+            "name": "Environmental Pollution",
+            "details": ""
+        },
+        {
+            "name": "Earthquake",
+            "details": ""
+        },
+        {
+            "name": "Wildfire",
+            "details": ""
+        },
+        {
+            "name": "Pestilence",
+            "details": ""
+        },
+        {
+            "name": "Avalanche",
+            "details": ""
+        },
+        {
+            "name": "Mudslide",
+            "details": ""
+        },
+        {
+            "name": "Tornado",
+            "details": ""
+        },
+        {
+            "name": "Supernatural Plague",
+            "details": ""
+        }
+    ],
+    "punishments": [
+        {
+            "name": "Easy Warning",
+            "details": "",
+            "lowValue": 1,
+            "highValue": 1
+        },
+        {
+            "name": "Stern Warning",
+            "details": "",
+            "lowValue": 2,
+            "highValue": 2
+        },
+        {
+            "name": "Long, Stern Lecture",
+            "details": "",
+            "lowValue": 3,
+            "highValue": 3
+        },
+        {
+            "name": "Written Citation",
+            "details": "",
+            "lowValue": 4,
+            "highValue": 4
+        },
+        {
+            "name": "Community Service (Short Term)",
+            "details": "",
+            "lowValue": 5,
+            "highValue": 5
+        },
+        {
+            "name": "Verbal Apology",
+            "details": "",
+            "lowValue": 6,
+            "highValue": 6
+        },
+        {
+            "name": "Petty Fine/Tithe",
+            "details": "",
+            "lowValue": 7,
+            "highValue": 7
+        },
+        {
+            "name": "Short Stay in the Stocks",
+            "details": "",
+            "lowValue": 8,
+            "highValue": 8
+        },
+        {
+            "name": "Under Personal Watch",
+            "details": "",
+            "lowValue": 9,
+            "highValue": 9
+        },
+        {
+            "name": "Imprisonment (Very Brief)",
+            "details": "",
+            "lowValue": 10,
+            "highValue": 10
+        },
+        {
+            "name": "Written Apology",
+            "details": "",
+            "lowValue": 11,
+            "highValue": 11
+        },
+        {
+            "name": "Community Service (Long Term)",
+            "details": "",
+            "lowValue": 12,
+            "highValue": 12
+        },
+        {
+            "name": "Hat of Shame",
+            "details": "",
+            "lowValue": 13,
+            "highValue": 13
+        },
+        {
+            "name": "Publicly Denounced",
+            "details": "",
+            "lowValue": 14,
+            "highValue": 14
+        },
+        {
+            "name": "Minor Fine/Tithe",
+            "details": "",
+            "lowValue": 15,
+            "highValue": 15
+        },
+        {
+            "name": "Minor Ordeal",
+            "details": "Example: pluck a stone from a boiling pot",
+            "lowValue": 16,
+            "highValue": 16
+        },
+        {
+            "name": "Mask of Shame",
+            "details": "",
+            "lowValue": 17,
+            "highValue": 17
+        },
+        {
+            "name": "Repentance Cloak",
+            "details": "",
+            "lowValue": 18,
+            "highValue": 18
+        },
+        {
+            "name": "Minor Lashing/Flogging",
+            "details": "",
+            "lowValue": 19,
+            "highValue": 19
+        },
+        {
+            "name": "Force Fasting",
+            "details": "",
+            "lowValue": 20,
+            "highValue": 20
+        },
+        {
+            "name": "Exile/Banishment (Month or Season)",
+            "details": "",
+            "lowValue": 21,
+            "highValue": 21
+        },
+        {
+            "name": "Indentured Servitude",
+            "details": "",
+            "lowValue": 22,
+            "highValue": 22
+        },
+        {
+            "name": "Force-Feeding",
+            "details": "",
+            "lowValue": 23,
+            "highValue": 23
+        },
+        {
+            "name": "Public Humiliation",
+            "details": "",
+            "lowValue": 24,
+            "highValue": 24
+        },
+        {
+            "name": "Imprisonment (Short)",
+            "details": "",
+            "lowValue": 25,
+            "highValue": 25
+        },
+        {
+            "name": "Paraded around Town",
+            "details": "",
+            "lowValue": 26,
+            "highValue": 26
+        },
+        {
+            "name": "Moderate Fine/Tithe",
+            "details": "",
+            "lowValue": 27,
+            "highValue": 27
+        },
+        {
+            "name": "Trip in the Iron Cage",
+            "details": "",
+            "lowValue": 28,
+            "highValue": 28
+        },
+        {
+            "name": "Long Stay in the Stocks",
+            "details": "",
+            "lowValue": 29,
+            "highValue": 29
+        },
+        {
+            "name": "Tarred and Feathered",
+            "details": "",
+            "lowValue": 30,
+            "highValue": 30
+        },
+        {
+            "name": "Shrew's Fiddle",
+            "details": "",
+            "lowValue": 31,
+            "highValue": 31
+        },
+        {
+            "name": "Minor Edict",
+            "details": "",
+            "lowValue": 32,
+            "highValue": 32
+        },
+        {
+            "name": "Moderate Ordeal",
+            "details": "Example: holding a burning coal",
+            "lowValue": 33,
+            "highValue": 33
+        },
+        {
+            "name": "Minor Psychological Torture",
+            "details": "",
+            "lowValue": 34,
+            "highValue": 34
+        },
+        {
+            "name": "Imprisonment (Medium)",
+            "details": "",
+            "lowValue": 35,
+            "highValue": 35
+        },
+        {
+            "name": "Moderate Lashing/Flogging",
+            "details": "",
+            "lowValue": 36,
+            "highValue": 36
+        },
+        {
+            "name": "Exile/Banishment (Years)",
+            "details": "",
+            "lowValue": 37,
+            "highValue": 37
+        },
+        {
+            "name": "Bridle/Mask",
+            "details": "",
+            "lowValue": 38,
+            "highValue": 38
+        },
+        {
+            "name": "Forced Labor",
+            "details": "",
+            "lowValue": 39,
+            "highValue": 39
+        },
+        {
+            "name": "Religious Confinement",
+            "details": "",
+            "lowValue": 40,
+            "highValue": 40
+        },
+        {
+            "name": "Forced Military Service",
+            "details": "",
+            "lowValue": 41,
+            "highValue": 41
+        },
+        {
+            "name": "Toe Removal",
+            "details": "",
+            "lowValue": 42,
+            "highValue": 42
+        },
+        {
+            "name": "Severe Fine/Tithe",
+            "details": "",
+            "lowValue": 43,
+            "highValue": 43
+        },
+        {
+            "name": "Indentured Servitude (Years)",
+            "details": "",
+            "lowValue": 44,
+            "highValue": 44
+        },
+        {
+            "name": "Barrel Pillory",
+            "details": "",
+            "lowValue": 45,
+            "highValue": 45
+        },
+        {
+            "name": "Exposed to the Elements",
+            "details": "",
+            "lowValue": 46,
+            "highValue": 46
+        },
+        {
+            "name": "Water Torture",
+            "details": "",
+            "lowValue": 47,
+            "highValue": 47
+        },
+        {
+            "name": "Foot Whipping",
+            "details": "",
+            "lowValue": 48,
+            "highValue": 48
+        },
+        {
+            "name": "Sisyphean Assignment",
+            "details": "",
+            "lowValue": 49,
+            "highValue": 49
+        },
+        {
+            "name": "Finger Removal",
+            "details": "",
+            "lowValue": 50,
+            "highValue": 50
+        },
+        {
+            "name": "Severe Lashing/Flogging",
+            "details": "",
+            "lowValue": 51,
+            "highValue": 51
+        },
+        {
+            "name": "Imprisonment (Long Term)",
+            "details": "",
+            "lowValue": 52,
+            "highValue": 52
+        },
+        {
+            "name": "Moderate Edict",
+            "details": "",
+            "lowValue": 53,
+            "highValue": 53
+        },
+        {
+            "name": "Exposed to Bees, Insects, or Vermin",
+            "details": "",
+            "lowValue": 54,
+            "highValue": 54
+        },
+        {
+            "name": "Branding",
+            "details": "",
+            "lowValue": 55,
+            "highValue": 55
+        },
+        {
+            "name": "Thumbscrews",
+            "details": "",
+            "lowValue": 56,
+            "highValue": 56
+        },
+        {
+            "name": "Cat o' Nine Tails",
+            "details": "",
+            "lowValue": 57,
+            "highValue": 57
+        },
+        {
+            "name": "Exile/Banishment (Decades)",
+            "details": "",
+            "lowValue": 58,
+            "highValue": 58
+        },
+        {
+            "name": "Iron Show",
+            "details": "",
+            "lowValue": 59,
+            "highValue": 59
+        },
+        {
+            "name": "Teeth Removal",
+            "details": "",
+            "lowValue": 60,
+            "highValue": 60
+        },
+        {
+            "name": "Tattooing",
+            "details": "",
+            "lowValue": 61,
+            "highValue": 61
+        },
+        {
+            "name": "Extreme Fine/Tithe",
+            "details": "",
+            "lowValue": 62,
+            "highValue": 62
+        },
+        {
+            "name": "De-nailing",
+            "details": "",
+            "lowValue": 63,
+            "highValue": 63
+        },
+        {
+            "name": "Bed of Nails",
+            "details": "",
+            "lowValue": 64,
+            "highValue": 64
+        },
+        {
+            "name": "Indentured Servitude (Decades)",
+            "details": "",
+            "lowValue": 65,
+            "highValue": 65
+        },
+        {
+            "name": "Foot Roasting",
+            "details": "",
+            "lowValue": 66,
+            "highValue": 66
+        },
+        {
+            "name": "Moderate Psychological Torture",
+            "details": "",
+            "lowValue": 67,
+            "highValue": 67
+        },
+        {
+            "name": "Iron Chair",
+            "details": "",
+            "lowValue": 68,
+            "highValue": 68
+        },
+        {
+            "name": "Severe Ordeal",
+            "details": "Example: walking across a bed of hot coals",
+            "lowValue": 69,
+            "highValue": 69
+        },
+        {
+            "name": "The Rack",
+            "details": "",
+            "lowValue": 70,
+            "highValue": 70
+        },
+        {
+            "name": "Extremely Severe Edict",
+            "details": "",
+            "lowValue": 71,
+            "highValue": 71
+        },
+        {
+            "name": "Imprisonment (Lifetime)",
+            "details": "",
+            "lowValue": 72,
+            "highValue": 72
+        },
+        {
+            "name": "Disfigured",
+            "details": "",
+            "lowValue": 73,
+            "highValue": 73
+        },
+        {
+            "name": "Strappado",
+            "details": "",
+            "lowValue": 74,
+            "highValue": 74
+        },
+        {
+            "name": "Excommunication",
+            "details": "",
+            "lowValue": 75,
+            "highValue": 75
+        },
+        {
+            "name": "King's Ransom Fine/Tithe",
+            "details": "",
+            "lowValue": 76,
+            "highValue": 76
+        },
+        {
+            "name": "Brodequins",
+            "details": "",
+            "lowValue": 77,
+            "highValue": 77
+        },
+        {
+            "name": "Forfeiture of All Property",
+            "details": "",
+            "lowValue": 78,
+            "highValue": 78
+        },
+        {
+            "name": "Exile/Banishment (Lifetime)",
+            "details": "",
+            "lowValue": 79,
+            "highValue": 79
+        },
+        {
+            "name": "Trial by Combat",
+            "details": "",
+            "lowValue": 80,
+            "highValue": 80
+        },
+        {
+            "name": "Hand Removal",
+            "details": "",
+            "lowValue": 81,
+            "highValue": 81
+        },
+        {
+            "name": "Tongue Removal",
+            "details": "",
+            "lowValue": 82,
+            "highValue": 82
+        },
+        {
+            "name": "Eye Removal",
+            "details": "",
+            "lowValue": 83,
+            "highValue": 83
+        },
+        {
+            "name": "Foot Removal",
+            "details": "",
+            "lowValue": 84,
+            "highValue": 84
+        },
+        {
+            "name": "Castration",
+            "details": "",
+            "lowValue": 85,
+            "highValue": 85
+        },
+        {
+            "name": "Both Hands Removed",
+            "details": "",
+            "lowValue": 86,
+            "highValue": 86
+        },
+        {
+            "name": "Full Blinding",
+            "details": "",
+            "lowValue": 87,
+            "highValue": 87
+        },
+        {
+            "name": "Dunking",
+            "details": "",
+            "lowValue": 88,
+            "highValue": 88
+        },
+        {
+            "name": "Confined Isolation",
+            "details": "",
+            "lowValue": 89,
+            "highValue": 89
+        },
+        {
+            "name": "Hemlock Poisoning",
+            "details": "",
+            "lowValue": 90,
+            "highValue": 90
+        },
+        {
+            "name": "Beheading",
+            "details": "",
+            "lowValue": 91,
+            "highValue": 91
+        },
+        {
+            "name": "Hanging",
+            "details": "",
+            "lowValue": 92,
+            "highValue": 92
+        },
+        {
+            "name": "Guillotine",
+            "details": "",
+            "lowValue": 93,
+            "highValue": 93
+        },
+        {
+            "name": "Defenestration",
+            "details": "",
+            "lowValue": 94,
+            "highValue": 94
+        },
+        {
+            "name": "Smothered in Ash",
+            "details": "",
+            "lowValue": 95,
+            "highValue": 95
+        },
+        {
+            "name": "Thrown off a Cliff",
+            "details": "",
+            "lowValue": 96,
+            "highValue": 96
+        },
+        {
+            "name": "Stoning",
+            "details": "",
+            "lowValue": 97,
+            "highValue": 97
+        },
+        {
+            "name": "Drowning",
+            "details": "",
+            "lowValue": 98,
+            "highValue": 98
+        },
+        {
+            "name": "Disembowelment",
+            "details": "",
+            "lowValue": 99,
+            "highValue": 99
+        },
+        {
+            "name": "Execution by Weapon",
+            "details": "",
+            "lowValue": 100,
+            "highValue": 100
+        },
+        {
+            "name": "Slavery (Lifetime)",
+            "details": "",
+            "lowValue": 101,
+            "highValue": 101
+        },
+        {
+            "name": "Severe Psychological Torture",
+            "details": "",
+            "lowValue": 102,
+            "highValue": 102
+        },
+        {
+            "name": "Trampled Animals",
+            "details": "",
+            "lowValue": 103,
+            "highValue": 103
+        },
+        {
+            "name": "Keelhauling",
+            "details": "",
+            "lowValue": 104,
+            "highValue": 104
+        },
+        {
+            "name": "Death by Dehydration",
+            "details": "",
+            "lowValue": 105,
+            "highValue": 105
+        },
+        {
+            "name": "Dismemberment",
+            "details": "",
+            "lowValue": 106,
+            "highValue": 106
+        },
+        {
+            "name": "Knee Splitter",
+            "details": "",
+            "lowValue": 107,
+            "highValue": 107
+        },
+        {
+            "name": "Death by Starvation",
+            "details": "",
+            "lowValue": 108,
+            "highValue": 108
+        },
+        {
+            "name": "Pendulum",
+            "details": "",
+            "lowValue": 109,
+            "highValue": 109
+        },
+        {
+            "name": "Buried Alive",
+            "details": "",
+            "lowValue": 110,
+            "highValue": 110
+        },
+        {
+            "name": "Impalement",
+            "details": "",
+            "lowValue": 111,
+            "highValue": 111
+        },
+        {
+            "name": "Manually Quartered",
+            "details": "",
+            "lowValue": 112,
+            "highValue": 112
+        },
+        {
+            "name": "Wooden Horse",
+            "details": "",
+            "lowValue": 113,
+            "highValue": 113
+        },
+        {
+            "name": "Lead Sprinkler",
+            "details": "",
+            "lowValue": 114,
+            "highValue": 114
+        },
+        {
+            "name": "Catherine Wheel",
+            "details": "",
+            "lowValue": 115,
+            "highValue": 115
+        },
+        {
+            "name": "Spanish Boot",
+            "details": "",
+            "lowValue": 116,
+            "highValue": 116
+        },
+        {
+            "name": "Dipped in Boiling Water",
+            "details": "",
+            "lowValue": 117,
+            "highValue": 117
+        },
+        {
+            "name": "Iron Maiden",
+            "details": "",
+            "lowValue": 118,
+            "highValue": 118
+        },
+        {
+            "name": "Pear of Anguish",
+            "details": "",
+            "lowValue": 119,
+            "highValue": 119
+        },
+        {
+            "name": "Burned Alive",
+            "details": "",
+            "lowValue": 120,
+            "highValue": 120
+        },
+        {
+            "name": "Suffocation Under Mud",
+            "details": "",
+            "lowValue": 121,
+            "highValue": 121
+        },
+        {
+            "name": "Breast Ripper/Iron Spider",
+            "details": "",
+            "lowValue": 122,
+            "highValue": 122
+        },
+        {
+            "name": "Dipped in Boiling Oil",
+            "details": "",
+            "lowValue": 123,
+            "highValue": 123
+        },
+        {
+            "name": "Devoured by Rats",
+            "details": "",
+            "lowValue": 124,
+            "highValue": 124
+        },
+        {
+            "name": "Thrown to Hungry Dogs",
+            "details": "",
+            "lowValue": 125,
+            "highValue": 125
+        },
+        {
+            "name": "Herectic's Fork",
+            "details": "",
+            "lowValue": 126,
+            "highValue": 126
+        },
+        {
+            "name": "Garotting",
+            "details": "",
+            "lowValue": 127,
+            "highValue": 127
+        },
+        {
+            "name": "Thrown to 'The Beast'",
+            "details": "",
+            "lowValue": 128,
+            "highValue": 128
+        },
+        {
+            "name": "Head Crusher",
+            "details": "",
+            "lowValue": 129,
+            "highValue": 129
+        },
+        {
+            "name": "Drawn and Quartered",
+            "details": "",
+            "lowValue": 130,
+            "highValue": 130
+        },
+        {
+            "name": "Death by Sawing",
+            "details": "",
+            "lowValue": 131,
+            "highValue": 131
+        },
+        {
+            "name": "Crushed by Stones",
+            "details": "",
+            "lowValue": 132,
+            "highValue": 132
+        },
+        {
+            "name": "Hung until Near Death",
+            "details": "Followed by another punishment",
+            "lowValue": 133,
+            "highValue": 133
+        },
+        {
+            "name": "Exquisitely Designed Psychological Torture",
+            "details": "",
+            "lowValue": 134,
+            "highValue": 134
+        },
+        {
+            "name": "Flaying",
+            "details": "",
+            "lowValue": 135,
+            "highValue": 135
+        },
+        {
+            "name": "Judas Cradle/Chair",
+            "details": "",
+            "lowValue": 136,
+            "highValue": 136
+        },
+        {
+            "name": "Crocodile Tube",
+            "details": "",
+            "lowValue": 137,
+            "highValue": 137
+        },
+        {
+            "name": "Blood Eagled",
+            "details": "",
+            "lowValue": 138,
+            "highValue": 138
+        },
+        {
+            "name": "Intestinal Crank",
+            "details": "",
+            "lowValue": 139,
+            "highValue": 139
+        },
+        {
+            "name": "Family Member Punished",
+            "details": "",
+            "lowValue": 140,
+            "highValue": 140
+        },
+        {
+            "name": "Scanger's Daughter",
+            "details": "",
+            "lowValue": 141,
+            "highValue": 141
+        },
+        {
+            "name": "Gibbeting",
+            "details": "",
+            "lowValue": 142,
+            "highValue": 142
+        },
+        {
+            "name": "Death by a Thousand Cuts",
+            "details": "",
+            "lowValue": 143,
+            "highValue": 143
+        },
+        {
+            "name": "Coffin Torture",
+            "details": "",
+            "lowValue": 144,
+            "highValue": 144
+        },
+        {
+            "name": "Brazen Bull",
+            "details": "",
+            "lowValue": 145,
+            "highValue": 145
+        },
+        {
+            "name": "Drug-Induced Torture",
+            "details": "",
+            "lowValue": 146,
+            "highValue": 146
+        },
+        {
+            "name": "Scaphism",
+            "details": "",
+            "lowValue": 147,
+            "highValue": 147
+        },
+        {
+            "name": "Crucifixion",
+            "details": "",
+            "lowValue": 148,
+            "highValue": 148
+        },
+        {
+            "name": "Magical/Supernatural Psychological Torture",
+            "details": "",
+            "lowValue": 149,
+            "highValue": 149
+        },
+        {
+            "name": "Offered up to Divine Judgement",
+            "details": "",
+            "lowValue": 150,
+            "highValue": 150
         }
     ]
 }
