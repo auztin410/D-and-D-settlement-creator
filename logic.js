@@ -28,3 +28,34 @@ let buildings = template.buildings;
 // console.log(result);
 
 console.log(template.punishments.length);
+
+
+
+// Unique Name Generator Code
+
+const { uniqueNamesGenerator, adjectives, colors, animals } = require('unique-names-generator');
+ 
+const randomName = uniqueNamesGenerator({ dictionaries: [adjectives, colors, animals] }); // big_red_donkey
+ 
+const shortName = uniqueNamesGenerator({
+  dictionaries: [adjectives, animals, colors], // colors can be omitted here as not used
+  length: 2
+});
+
+console.log(randomName);
+console.log(shortName);
+
+
+// random-name code
+
+var random = require('random-name')
+console.log(random())
+
+//provides first, middle, and last names.
+
+console.log(random.first())
+console.log(random.middle())
+console.log(random.last())
+
+//also, random place name!
+console.log(random.place())
