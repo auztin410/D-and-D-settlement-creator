@@ -96,6 +96,32 @@
             "description": "Filled with buildings devoted to maintaining order and ruling the settlement and possibly the region depending on the influence of the settlement."
         }
     ],
+    "economicStatus": [
+        {
+            "name": "Crumbling",
+            "description": "A good number of buildings are left abandoned, in state of disrepair and many businesses are failing or already failed and may lack some basic resources."
+        },
+        {
+            "name": "Failing",
+            "description": "Some abandoned buildings, and more falling into states of disrepair as some business struggle to stay open or acquire resources due to cost or availability within the settlement."
+        },
+        {
+            "name": "Rough",
+            "description": "There is enough business for most shops to stay in business, but only the most in demand are still open or will remain open for long."
+        },
+        {
+            "name": "Fine",
+            "description": "There is enough business that most do not need to struggle, but excess is in short supply and those who do well earn that with fine products or hard work."
+        },
+        {
+            "name": "Healthy",
+            "description": "Business is good for most and resources and trade flows through the settlement."
+        },
+        {
+            "name": "Growing",
+            "description": "Business is booming and in many cases the settlement requires longer hours or additional supplies that are in demand, that currently are being created in the settlement and must be imported, creating opportunities for many new businesses."
+        }
+    ],
     "government": [
         {
             "name": "Civilian Autocracy",
