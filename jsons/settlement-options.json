@@ -25,6 +25,77 @@
             "size": "massive"
         }
     ],
+    "sections": [
+        {
+            "name": "1 section",
+            "options": [
+                "Hamlet",
+                "Village",
+                "Town"
+            ]
+        },
+        {
+            "name": "2 sections",
+            "options": [
+                "Hamlet",
+                "Village",
+                "Town",
+                "Small City"
+            ]
+        },
+        {
+            "name": "3 sections",
+            "options": [
+                "Town",
+                "Small City",
+                "Large City",
+                "Metropolis"
+            ]
+        },
+        {
+            "name": "4 sections",
+            "options": [
+                "Large City",
+                "Metropolis"
+            ]
+        },
+        {
+            "name": "5 sections",
+            "options": [
+                "Metropolis"
+            ]
+        }
+    ],
+    "sectionType": [
+        {
+            "name": "Residential",
+            "description": "Made up of mostly homes."
+        },
+        {
+            "name": "Trade",
+            "description": "Filled with shops and stalls."
+        },
+        {
+            "name": "Dock",
+            "description": ""
+        },
+        {
+            "name": "Military",
+            "description": "Made up of a fort, barracks, training areas, and other military structures and equipment."
+        },
+        {
+            "name": "Park",
+            "description": "An open area with benches, perhaps a fountain, and possible a few smaller trees."
+        },
+        {
+            "name": "Garden",
+            "description": "An area devoted to plants, and may be open to the public or restricted depending on the nature of the plant-life."
+        },
+        {
+            "name": "Government",
+            "description": "Filled with buildings devoted to maintaining order and ruling the settlement and possibly the region depending on the influence of the settlement."
+        }
+    ],
     "government": [
         {
             "name": "Civilian Autocracy",
